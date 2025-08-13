@@ -1,5 +1,5 @@
 # Hi, I'm Simon Yung 👋
-Aspiring Gameplay Programmer | 3D Artist
+Aspiring Gameplay Programmer | 3D Generalist
 
 Welcome to my portfolio!  
 Here you'll find my game projects made with **Stencyl**, as well as my 3D modeling and artwork.  
@@ -14,7 +14,7 @@ Here are a few of my game projects:
 - **Engine:** Stencyl
 - **Role:** Gameplay Programmer
 - [🎮 Play on itch.io](https://your-game-link.com)
-- ![Zombie Runner Screenshot](https://link-to-screenshot.jpg)
+- ![Meteor Pong Screenshot](https://link-to-screenshot.jpg)
 
 ### 2. Virus Exterminator
 - **Engine:** Stencyl
@@ -38,8 +38,8 @@ Some of my creative work outside of programming:
 ## 📫 Contact
 - **Email:** simonyung007@gmail.com  
 - **GitHub:** [Simonyung007](https://github.com/yourusername)  
-- **LinkedIn:** [[Simon Yung](https://www.linkedin.com/in/simon-yung-1061351a4/)
-- **ArtStation:** [Simon Yung](https://www.artstation.com/simonyung)
+- **LinkedIn:** [Simon Yung](https://www.linkedin.com/in/simon-yung-1061351a4/)
+
 ---
 
 *Last updated: August 2025*
