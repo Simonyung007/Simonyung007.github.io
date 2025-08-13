@@ -1,5 +1,5 @@
 # Hi, I'm Simon Yung 👋
-Aspiring Gameplay Programmer | 3D Generalist
+Aspiring Gameplay Programmer | 3D Artist
 
 Welcome to my portfolio!  
 Here you'll find my game projects made with **Stencyl**, as well as my 3D modeling and artwork.  
