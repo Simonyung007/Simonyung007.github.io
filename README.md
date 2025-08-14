@@ -14,13 +14,13 @@ Here are a few of my game projects:
 - **Engine:** Stencyl
 - **Role:** Gameplay Programmer
 - [🎮 Play on itch.io](https://your-game-link.com)
-- ![Meteor Pong Screenshot](https://postimg.cc/BLFdkcyW)
+- ![Meteor Pong Screenshot](https://i.postimg.cc/NMCBydk0/Meteor-Pong.png)
 
 ### 2. Virus Exterminator
 - **Engine:** Stencyl
 - **Role:** Gameplay Programmer
 - [🎮 Play on itch.io](https://your-game-link.com)
-- ![Virus Exterminator Screenshot](https://postimg.cc/7b9kkXhD)
+- ![Virus Exterminator Screenshot](https://i.postimg.cc/Fs5s0BQf/Virus-Exterminator.png)
 
 ---
 
