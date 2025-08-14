@@ -24,14 +24,7 @@ Here are a few of my game projects:
 
 ---
 
-## 🎨 Art & 3D Models
-Some of my creative work outside of programming:
 
-![3D Model Example](https://link-to-image.jpg)  
-*Made with Maya and Zbrush*
-
-![Artwork Example](https://link-to-image.jpg)  
-*Made with Photoshop*
 
 ---
 
