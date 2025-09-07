@@ -3,24 +3,29 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Bomb Guy - Project</title>
+  <title>Bomb Guy</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       margin: 0;
       line-height: 1.6;
-      background: #f9f9f9;
+      background: #fafafa;
       color: #333;
     }
     header {
-      background: #333;
+      background: #222;
       color: #fff;
-      padding: 20px 0;
+      padding: 30px 0;
       text-align: center;
     }
     header h1 {
       margin: 0;
-      font-size: 2rem;
+      font-size: 2.5rem;
+    }
+    header p {
+      margin: 5px 0 0;
+      font-size: 1.2rem;
+      color: #ccc;
     }
     section {
       max-width: 900px;
@@ -28,62 +33,110 @@
       padding: 40px 20px;
     }
     h2 {
-      color: #333;
-      margin-bottom: 20px;
+      color: #222;
+      margin-bottom: 15px;
+    }
+    ul {
+      margin: 10px 0;
+      padding-left: 20px;
     }
     img {
       max-width: 100%;
-      border-radius: 10px;
-      margin-bottom: 20px;
+      border-radius: 8px;
+      margin: 20px 0;
     }
-    a.button {
+    .play-link {
       display: inline-block;
+      margin: 20px 0;
+      padding: 12px 20px;
       background: #333;
       color: #fff;
-      padding: 10px 20px;
       text-decoration: none;
-      border-radius: 5px;
+      border-radius: 6px;
       transition: background 0.3s;
     }
-    a.button:hover {
+    .play-link:hover {
       background: #555;
     }
     footer {
-      background: #333;
+      background: #222;
       color: #fff;
       text-align: center;
       padding: 20px;
       margin-top: 40px;
     }
+    footer a {
+      color: #fff;
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
 
-  <!-- Header -->
   <header>
     <h1>Bomb Guy</h1>
-    <p>Stencyl Project | Gameplay Programmer</p>
+    <p>Action Platformer | Escape from the Robot Factory</p>
   </header>
 
-  <!-- Project Info -->
   <section>
-    <h2>About the Game</h2>
-    <p><strong>Bomb Guy</strong> is a puzzle-action game inspired by classic bomber-style mechanics.  
-    The player must strategically place bombs to defeat enemies and navigate through tricky levels.  
-    My role focused on <em>gameplay programming</em>, including player controls, bomb mechanics, and level progression.</p>
+    <h2>Overview</h2>
+    <p>
+      Bomb Guy is a 2D side-scrolling action platformer created in Stencyl. 
+      The story follows a little boy who accidentally stumbles into a hidden robot factory, only to discover it’s filled with hostile machines and dangerous traps. 
+      To escape, the player must solve puzzles, dodge deadly hazards, and use bombs strategically to defeat enemies and progress through levels.
+    </p>
 
-    <h2>Screenshot</h2>
+    <h2>Core Gameplay</h2>
+    <p>
+      Players must navigate the factory using precise movement and bomb-based mechanics. 
+      Bombs serve as both weapons and tools for solving puzzles, requiring careful timing and positioning. 
+      The game combines platforming challenges with combat against various robot enemies.
+    </p>
+    <ul>
+      <li>Run, jump, and double jump to traverse tricky levels</li>
+      <li>Create and throw bombs to destroy enemies and obstacles</li>
+      <li>Interact with objects (doors, switches, NPCs) to progress</li>
+      <li>Avoid traps such as spikes, saws, fire, and conveyor belts</li>
+    </ul>
+
+    <h2>Controls</h2>
+    <ul>
+      <li><b>Move Left:</b> A</li>
+      <li><b>Move Right:</b> D</li>
+      <li><b>Jump:</b> W or Spacebar</li>
+      <li><b>Double Jump:</b> W + W</li>
+      <li><b>Interact:</b> R</li>
+      <li><b>Create Bomb:</b> J</li>
+      <li><b>Throw Bomb:</b> Hold J and Release</li>
+    </ul>
+
+    <h2>Enemies & Hazards</h2>
+    <ul>
+      <li><b>Spider Bomb:</b> Wanders within a set area</li>
+      <li><b>Drone:</b> Drops atomic bombs when triggered</li>
+      <li><b>Shooter:</b> Fires bullets when the player is in range</li>
+      <li><b>Boss:</b> Blocks the final stage and must be defeated to escape</li>
+      <li><b>Traps:</b> Spikes, hammers, fire machines, conveyor belts, mimic chests, and more</li>
+    </ul>
+
+    <h2>Development Reflection</h2>
+    <p>
+      Creating Bomb Guy was a challenging yet rewarding process. 
+      I designed a wide range of actors including enemies, traps, interactive machines, and collectables, all of which work together to create a dynamic gameplay experience. 
+      Balancing the bomb mechanics — ensuring they were powerful yet risky — was one of the biggest design challenges. 
+      I also learned how to implement more advanced mechanics such as knockback, parries, and puzzle-based progression.
+    </p>
+
+    <h2>Screenshots</h2>
     <img src="https://i.postimg.cc/dQrQFGY9/Bomb-Guy-Main-Title-Screen.png" alt="Bomb Guy Screenshot">
 
-    <h2>Play the Game</h2>
-    <p>The game will be available on itch.io soon!</p>
-    <a href="https://your-game-link.com" target="_blank" class="button">🎮 Play on itch.io</a>
+    <h2>Play</h2>
+    <a href="https://your-game-link.com" target="_blank" class="play-link">🎮 Play on itch.io (coming soon)</a>
   </section>
 
-  <!-- Footer -->
   <footer>
-    <p><a href="index.html" style="color: #fff; text-decoration: underline;">⬅ Back to Portfolio</a></p>
-    <p>&copy; 2025 Simon Yung</p>
+    <p><a href="index.html">⬅ Back to Portfolio</a></p>
+    <p>&copy; 2025 Simon Yung. All rights reserved.</p>
   </footer>
 
 </body>
