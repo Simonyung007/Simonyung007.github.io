@@ -1,5 +1,4 @@
-<!-- Header -->
-  <header>
+<header>
     <h1>Simon Yung</h1>
     <p>Aspiring Gameplay Programmer | Game Developer
     <nav>
@@ -18,6 +17,7 @@
        This website showcases my projects, skills, and journey in game development.</p>
   </section>
 ---
+
  <!-- Projects -->
 ## 🎮 My Games
 Here are a few of my game projects:
