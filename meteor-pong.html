@@ -3,86 +3,149 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meteor Pong - Project</title>
+  <title>Meteor Pong</title>
   <style>
     body {
       font-family: Arial, sans-serif;
+      background-color: #111;
+      color: #f4f4f4;
       margin: 0;
+      padding: 0;
       line-height: 1.6;
-      background: #f9f9f9;
-      color: #333;
     }
-    header {
-      background: #333;
-      color: #fff;
-      padding: 20px 0;
+    header, footer {
+      background: #000;
       text-align: center;
+      padding: 20px;
     }
     header h1 {
       margin: 0;
-      font-size: 2rem;
+      font-size: 2.5em;
     }
-    section {
+    .container {
       max-width: 900px;
       margin: auto;
-      padding: 40px 20px;
-    }
-    h2 {
-      color: #333;
-      margin-bottom: 20px;
+      padding: 20px;
     }
     img {
-      max-width: 100%;
+      display: block;
+      margin: 20px auto;
       border-radius: 10px;
-      margin-bottom: 20px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+      background: #222;
+    }
+    th, td {
+      border: 1px solid #444;
+      padding: 10px;
+      text-align: center;
+    }
+    th {
+      background: #333;
+    }
+    .gallery {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    .gallery img {
+      width: 280px;
+      height: auto;
     }
     a.button {
       display: inline-block;
-      background: #333;
-      color: #fff;
+      margin: 20px auto;
       padding: 10px 20px;
+      background: #ff5722;
+      color: white;
       text-decoration: none;
-      border-radius: 5px;
-      transition: background 0.3s;
+      font-weight: bold;
+      border-radius: 8px;
     }
     a.button:hover {
-      background: #555;
-    }
-    footer {
-      background: #333;
-      color: #fff;
-      text-align: center;
-      padding: 20px;
-      margin-top: 40px;
+      background: #e64a19;
     }
   </style>
 </head>
 <body>
-
-  <!-- Header -->
   <header>
-    <h1>Meteor Pong</h1>
-    <p>Stencyl Project | Gameplay Programmer</p>
+    <h1>🌌 Meteor Pong</h1>
   </header>
 
-  <!-- Project Info -->
-  <section>
-    <h2>About the Game</h2>
-    <p><strong>Meteor Pong</strong> is a twist on the classic Pong formula, featuring meteors that add chaos and unpredictability to the gameplay.  
+  <div class="container">
+    <img src="https://i.postimg.cc/764s2v5h/Meteor-Pong-Main-Title-Screen.png" alt="Meteor Pong Screenshot" width="600">
 
-    <h2>Screenshot</h2>
-    <img src="https://i.postimg.cc/764s2v5h/Meteor-Pong-Main-Title-Screen.png" alt="Meteor Pong Screenshot">
+    <h2>🚀 Game Concept</h2>
+    <p>
+      Meteor Pong reimagines the classic Pong game with a <strong>space galaxy theme</strong>.
+      Instead of plain paddles and a ball, players <strong>defend their planets</strong> from a fiery meteor.
+      The hand-drawn <strong>scribble art style</strong> gives the game a playful but cosmic feel.
+    </p>
 
-    <h2>Play the Game</h2>
-    <p>The game will be available on itch.io soon!</p>
-    <a href="https://your-game-link.com" target="_blank" class="button">🎮 Play on itch.io</a>
-  </section>
+    <h2>🕹️ Controls</h2>
+    <table>
+      <tr>
+        <th>Action</th>
+        <th>Player 1</th>
+        <th>Player 2</th>
+      </tr>
+      <tr>
+        <td>Move Up</td>
+        <td>W</td>
+        <td>↑ (Arrow Up)</td>
+      </tr>
+      <tr>
+        <td>Move Down</td>
+        <td>S</td>
+        <td>↓ (Arrow Down)</td>
+      </tr>
+      <tr>
+        <td>Boost</td>
+        <td>1</td>
+        <td>Right Shift</td>
+      </tr>
+    </table>
 
-  <!-- Footer -->
+    <h2>📜 Rules</h2>
+    <ul>
+      <li><strong>Objective:</strong> Keep the meteor from hitting your planet.</li>
+      <li><strong>Scoring:</strong> Every time your opponent fails to block, you gain <strong>1 point</strong>.</li>
+      <li><strong>Winning:</strong> First player to reach the score limit wins.</li>
+    </ul>
+
+    <h2>🎨 Design Features</h2>
+    <ul>
+      <li>✨ <strong>Theme:</strong> Scribble-style galaxy (doodle stars, planets, meteor trails)</li>
+      <li>✨ <strong>Paddles:</strong> Planetary shields</li>
+      <li>✨ <strong>Meteor:</strong> Glowing scribbly rock with fiery outline</li>
+      <li>✨ <strong>Background:</strong> Star-filled space backdrop</li>
+      <li>✨ <strong>Audio:</strong> Bounce sound, explosion effects, victory fanfare</li>
+    </ul>
+
+    <h2>📸 Gallery</h2>
+    <div class="gallery">
+      <img src="your-screenshot-1.png" alt="Gameplay Screenshot">
+      <img src="your-screenshot-2.png" alt="Planet vs Planet">
+    </div>
+
+    <h2>🌟 Key Takeaway</h2>
+    <p>
+      Meteor Pong transforms a <strong>classic prototype</strong> into a fun <strong>cosmic battle</strong>.
+      It combines the <strong>simplicity of Pong</strong> with <strong>creative visuals, sounds, and victory goals</strong>,
+      making it an exciting two-player game for quick, competitive fun.
+    </p>
+
+    <div style="text-align:center;">
+      <a href="https://your-game-link.com" class="button">🎮 Play on itch.io (coming soon)</a>
+    </div>
+  </div>
+
   <footer>
-    <p><a href="index.html" style="color: #fff; text-decoration: underline;">⬅ Back to Portfolio</a></p>
-    <p>&copy; 2025 Simon Yung</p>
+    <p>&copy; 2025 Your Name | Meteor Pong</p>
   </footer>
-
 </body>
 </html>
