@@ -2,40 +2,87 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Meteor Pong Progress</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meteor Pong - Project</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
+      margin: 0;
+      line-height: 1.6;
+      background: #f9f9f9;
+      color: #333;
     }
-    h1 {
-      color: #444;
+    header {
+      background: #333;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    h2 {
+      color: #333;
+      margin-bottom: 20px;
     }
     img {
       max-width: 100%;
-      margin-top: 15px;
       border-radius: 10px;
+      margin-bottom: 20px;
+    }
+    a.button {
+      display: inline-block;
+      background: #333;
+      color: #fff;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+      transition: background 0.3s;
+    }
+    a.button:hover {
+      background: #555;
+    }
+    footer {
+      background: #333;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
     }
   </style>
 </head>
 <body>
-  <h1>Meteor Pong – Development Progress</h1>
-  <p><a href="index.html">⬅ Back to Main Page</a></p>
 
-  <h2>Week 1</h2>
-  <p>Started with basic paddle and ball movement in Stencyl.</p>
-  <img src="https://i.postimg.cc/764s2v5h/Meteor-Pong-Main-Title-Screen.png" alt="Meteor Pong Screenshot">
+  <!-- Header -->
+  <header>
+    <h1>Meteor Pong</h1>
+    <p>Stencyl Project | Gameplay Programmer</p>
+  </header>
 
-  <h2>Week 2</h2>
-  <p>Added scoring system.</p>
+  <!-- Project Info -->
+  <section>
+    <h2>About the Game</h2>
+    <p><strong>Meteor Pong</strong> is a twist on the classic Pong formula, featuring meteors that add chaos and unpredictability to the gameplay.  
 
-  <h2>Next Steps</h2>
-  <ul>
-    <li>Power-ups</li>
-    <li>Sound effects</li>
-    <li>UI improvements</li>
-  </ul>
+    <h2>Screenshot</h2>
+    <img src="https://i.postimg.cc/764s2v5h/Meteor-Pong-Main-Title-Screen.png" alt="Meteor Pong Screenshot">
+
+    <h2>Play the Game</h2>
+    <p>The game will be available on itch.io soon!</p>
+    <a href="https://your-game-link.com" target="_blank" class="button">🎮 Play on itch.io</a>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p><a href="index.html" style="color: #fff; text-decoration: underline;">⬅ Back to Portfolio</a></p>
+    <p>&copy; 2025 Simon Yung</p>
+  </footer>
+
 </body>
 </html>
