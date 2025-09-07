@@ -3,24 +3,29 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Virus Exterminator - Project</title>
+  <title>Virus Exterminator</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       margin: 0;
       line-height: 1.6;
-      background: #f9f9f9;
+      background: #fafafa;
       color: #333;
     }
     header {
-      background: #333;
+      background: #222;
       color: #fff;
-      padding: 20px 0;
+      padding: 30px 0;
       text-align: center;
     }
     header h1 {
       margin: 0;
-      font-size: 2rem;
+      font-size: 2.5rem;
+    }
+    header p {
+      margin: 5px 0 0;
+      font-size: 1.2rem;
+      color: #ccc;
     }
     section {
       max-width: 900px;
@@ -28,61 +33,96 @@
       padding: 40px 20px;
     }
     h2 {
-      color: #333;
-      margin-bottom: 20px;
+      color: #222;
+      margin-bottom: 15px;
+    }
+    ul {
+      margin: 10px 0;
+      padding-left: 20px;
     }
     img {
       max-width: 100%;
-      border-radius: 10px;
-      margin-bottom: 20px;
+      border-radius: 8px;
+      margin: 20px 0;
     }
-    a.button {
+    .play-link {
       display: inline-block;
+      margin: 20px 0;
+      padding: 12px 20px;
       background: #333;
       color: #fff;
-      padding: 10px 20px;
       text-decoration: none;
-      border-radius: 5px;
+      border-radius: 6px;
       transition: background 0.3s;
     }
-    a.button:hover {
+    .play-link:hover {
       background: #555;
     }
     footer {
-      background: #333;
+      background: #222;
       color: #fff;
       text-align: center;
       padding: 20px;
       margin-top: 40px;
     }
+    footer a {
+      color: #fff;
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
 
-  <!-- Header -->
   <header>
     <h1>Virus Exterminator</h1>
-    <p>Stencyl Project | Gameplay Programmer</p>
+    <p>Top-Down Shoot ’Em Up | Defend the world from a deadly outbreak</p>
   </header>
 
-  <!-- Project Info -->
   <section>
-    <h2>About the Game</h2>
-    <p><strong>Virus Exterminator</strong> is an action arcade-style game where the player fights off waves of viruses using fast reflexes and power-ups.  
-    My role was focused on <em>gameplay programming</em>, handling enemy behavior, scoring system, and collision mechanics.</p>
+    <h2>Overview</h2>
+    <p>
+      Virus Exterminator is a top-down shoot ’em up game created with Stencyl. 
+      The player takes the role of a lone fighter tasked with eliminating waves of virus-like enemies that threaten humanity. 
+      Designed as a fast-paced arcade experience, the game focuses on reflexes, strategy, and survival.
+    </p>
 
-    <h2>Screenshot</h2>
+    <h2>Core Gameplay</h2>
+    <p>
+      The player controls a ship/character that moves freely across the screen, shooting projectiles to destroy incoming viruses. 
+      Each wave becomes increasingly challenging, requiring careful dodging and precise aiming.
+    </p>
+    <ul>
+      <li>Move in all directions with smooth controls</li>
+      <li>Shoot to eliminate virus enemies</li>
+      <li>Survive as long as possible while avoiding damage</li>
+      <li>Progressive difficulty with tougher waves</li>
+    </ul>
+
+    <h2>Features & Challenges</h2>
+    <ul>
+      <li>Multiple virus enemy types with different behaviors</li>
+      <li>Fast-paced gameplay loop inspired by classic arcade shooters</li>
+      <li>Balancing player movement and shooting for smooth gameplay</li>
+      <li>Level design focused on wave progression and difficulty scaling</li>
+    </ul>
+
+    <h2>Development Reflection</h2>
+    <p>
+      Developing Virus Exterminator helped me practice structuring core gameplay mechanics in Stencyl. 
+      The main challenge was balancing enemy spawn rates and player speed to keep the game fun without being overwhelming. 
+      Through iteration and testing, I learned how important small adjustments are for overall game feel.
+    </p>
+
+    <h2>Screenshots</h2>
     <img src="https://i.postimg.cc/8km8w4Gx/Virus-Exterminator-Main-Title-Screen.png" alt="Virus Exterminator Screenshot">
 
-    <h2>Play the Game</h2>
-    <p>The game will be available on itch.io soon!</p>
-    <a href="https://your-game-link.com" target="_blank" class="button">🎮 Play on itch.io</a>
+    <h2>Play</h2>
+    <a href="https://your-game-link.com" target="_blank" class="play-link">🎮 Play on itch.io (coming soon)</a>
   </section>
 
-  <!-- Footer -->
   <footer>
-    <p><a href="index.html" style="color: #fff; text-decoration: underline;">⬅ Back to Portfolio</a></p>
-    <p>&copy; 2025 Simon Yung</p>
+    <p><a href="index.html">⬅ Back to Portfolio</a></p>
+    <p>&copy; 2025 Simon Yung. All rights reserved.</p>
   </footer>
 
 </body>
