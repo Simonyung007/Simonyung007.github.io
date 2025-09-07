@@ -3,7 +3,7 @@ Aspiring Gameplay Programmer | 3D Artist
 
 
 Welcome to my portfolio!  
-Here you'll find my game projects made with **Stencyl**, as well as my 3D modeling and artwork.  
+Here you'll find my game projects made with **Stencyl**.
 I’m passionate about creating engaging gameplay experiences and continuously learning new programming techniques.
 
 ---
