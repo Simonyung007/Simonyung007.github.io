@@ -32,7 +32,8 @@ Here are a few of my game projects:
 - [![Bomb Guy Screenshot](https://i.postimg.cc/dQrQFGY9/Bomb-Guy-Main-Title-Screen.png)](bomb-guy.html)
 
 ---
-   <!-- LinkedIn -->
+ <div class="social-icons">
+ <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/simon-yung-1061351a4/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" 
        alt="LinkedIn" width="40" height="40">
@@ -46,7 +47,7 @@ Here are a few of my game projects:
   <a href="mailto:simonyung007@gmail.com ">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email">
   </a>
-
+</div>
 ---
 
 ## 📫 Contact
