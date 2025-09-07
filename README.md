@@ -49,9 +49,19 @@ This website showcases my projects, skills, and journey in game development.
 ---
 
 ## 📫 Contact
-- [![LinkedIn](https://cdn-icons-png.flaticon.com/512/2111/2111499.png)](https://www.linkedin.com/in/simon-yung-1061351a4/)  
-- [![GitHub](https://cdn-icons-png.flaticon.com/512/2111/2111432.png)](https://github.com/Simonyung007)  
-- [![Email](https://cdn-icons-png.flaticon.com/512/732/732200.png)](mailto:simonyung007@gmail.com)
+## 📫 Contact
+
+<a href="https://www.linkedin.com/in/simon-yung-1061351a4/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" width="40" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/Simonyung007" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="40" alt="GitHub">
+</a>
+
+<a href="mailto:simonyung007@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email">
+</a>
 
 ---
 
