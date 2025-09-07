@@ -8,7 +8,8 @@ _Aspiring Gameplay Programmer | Game Developer_
 ## About Me
 Hello! I am a student that studying in University of Wollogong and taking Bachelor of Game Development course.
 I enjoy creating fun and engaging experiences across PC, mobile, and console.  
-This website showcases my projects, skills, and journey in game development. Will keep updating this website if I created new game and published.
+This website showcases my projects, skills, and journey in game development. 
+Will keep updating this website if I created new game and published.
 
 ---
 
@@ -39,12 +40,12 @@ This website showcases my projects, skills, and journey in game development. Wil
 ---
 
 ## 🛠 Skills {#skills}
-- Stencyl  
-- Unity _(placeholder)_  
-- C# / Java _(placeholder)_  
-- Unreal _(placeholder)_  
-- Photoshop / Aseprite   
-- Git & GitHub _(placeholder)_  
+- Stencyl
+- Photoshop / Aseprite  
+- _placeholder)_  
+- _(placeholder)_  
+- _(placeholder)_  
+- _(placeholder)_  
 
 ---
 
