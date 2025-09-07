@@ -43,8 +43,8 @@ This website showcases my projects, skills, and journey in game development.
 - Unity _(placeholder)_  
 - C# / Java _(placeholder)_  
 - Unreal _(placeholder)_  
-- Photoshop / Aseprite _(placeholder)_  
-- Git & GitHub  
+- Photoshop / Aseprite   
+- Git & GitHub _(placeholder)_  
 
 ---
 
