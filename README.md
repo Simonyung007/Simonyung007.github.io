@@ -12,7 +12,7 @@ This website showcases my projects, skills, and journey in game development.
 
 ---
 
-## 🎮 Projects
+## 🎮 Projects {#projects}
 
 ### 1. [Meteor Pong](meteor-pong.md)
 - **Engine:** Stencyl  
@@ -38,7 +38,7 @@ This website showcases my projects, skills, and journey in game development.
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills {#skills}
 - Stencyl  
 - Unity _(placeholder)_  
 - C# / Java _(placeholder)_  
@@ -48,16 +48,14 @@ This website showcases my projects, skills, and journey in game development.
 
 ---
 
-## 📫 Contact
+## 📫 Contact {#contact}
 
 <a href="https://www.linkedin.com/in/simon-yung-1061351a4/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" width="40" alt="LinkedIn">
 </a>
-
 <a href="https://github.com/Simonyung007" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="40" alt="GitHub">
 </a>
-
 <a href="mailto:simonyung007@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email">
 </a>
