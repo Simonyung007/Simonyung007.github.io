@@ -1,5 +1,5 @@
 # Hi, I'm Simon Yung 👋
-Aspiring Gameplay Programmer | 3D Artist
+Aspiring Gameplay Programmer 
 
 
 Welcome to my portfolio!  
