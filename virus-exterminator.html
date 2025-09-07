@@ -7,123 +7,158 @@
   <style>
     body {
       font-family: Arial, sans-serif;
+      background-color: #111;
+      color: #f4f4f4;
       margin: 0;
+      padding: 0;
       line-height: 1.6;
-      background: #fafafa;
-      color: #333;
     }
-    header {
-      background: #222;
-      color: #fff;
-      padding: 30px 0;
+    header, footer {
+      background: #000;
       text-align: center;
+      padding: 20px;
     }
     header h1 {
       margin: 0;
-      font-size: 2.5rem;
+      font-size: 2.5em;
     }
-    header p {
-      margin: 5px 0 0;
-      font-size: 1.2rem;
-      color: #ccc;
-    }
-    section {
+    .container {
       max-width: 900px;
       margin: auto;
-      padding: 40px 20px;
-    }
-    h2 {
-      color: #222;
-      margin-bottom: 15px;
-    }
-    ul {
-      margin: 10px 0;
-      padding-left: 20px;
+      padding: 20px;
     }
     img {
-      max-width: 100%;
-      border-radius: 8px;
+      display: block;
+      margin: 20px auto;
+      border-radius: 10px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
       margin: 20px 0;
-    }
-    .play-link {
-      display: inline-block;
-      margin: 20px 0;
-      padding: 12px 20px;
-      background: #333;
-      color: #fff;
-      text-decoration: none;
-      border-radius: 6px;
-      transition: background 0.3s;
-    }
-    .play-link:hover {
-      background: #555;
-    }
-    footer {
       background: #222;
-      color: #fff;
-      text-align: center;
-      padding: 20px;
-      margin-top: 40px;
     }
-    footer a {
-      color: #fff;
-      text-decoration: underline;
+    th, td {
+      border: 1px solid #444;
+      padding: 10px;
+      text-align: center;
+    }
+    th {
+      background: #333;
+    }
+    .gallery {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    .gallery img {
+      width: 280px;
+      height: auto;
+      border-radius: 8px;
+    }
+    a.button {
+      display: inline-block;
+      margin: 20px auto;
+      padding: 10px 20px;
+      background: #ff5722;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 8px;
+    }
+    a.button:hover {
+      background: #e64a19;
     }
   </style>
 </head>
 <body>
-
   <header>
-    <h1>Virus Exterminator</h1>
-    <p>Top-Down Shoot ’Em Up | Defend the world from a deadly outbreak</p>
+    <h1>🦠 Virus Exterminator</h1>
   </header>
 
-  <section>
-    <h2>Overview</h2>
+  <div class="container">
+    <img src="https://i.postimg.cc/8km8w4Gx/Virus-Exterminator-Main-Title-Screen.png" 
+         alt="Virus Exterminator Screenshot" width="600">
+
+    <h2>💡 Game Concept</h2>
     <p>
-      Virus Exterminator is a top-down shoot ’em up game created with Stencyl. 
-      The player takes the role of a lone fighter tasked with eliminating waves of virus-like enemies that threaten humanity. 
-      Designed as a fast-paced arcade experience, the game focuses on reflexes, strategy, and survival.
+      Virus Exterminator is a <strong>shoot ‘em up action game</strong> where the player defends
+      humanity against waves of deadly viruses. You control a ship equipped with powerful weapons
+      to destroy viruses while dodging their relentless attacks. Each level escalates in difficulty,
+      testing your reflexes and precision.
     </p>
 
-    <h2>Core Gameplay</h2>
-    <p>
-      The player controls a ship/character that moves freely across the screen, shooting projectiles to destroy incoming viruses. 
-      Each wave becomes increasingly challenging, requiring careful dodging and precise aiming.
-    </p>
+    <h2>🕹️ Controls</h2>
+    <table>
+      <tr>
+        <th>Action</th>
+        <th>Key</th>
+      </tr>
+      <tr>
+        <td>Move Up</td>
+        <td>W</td>
+      </tr>
+      <tr>
+        <td>Move Down</td>
+        <td>S</td>
+      </tr>
+      <tr>
+        <td>Move Left</td>
+        <td>A</td>
+      </tr>
+      <tr>
+        <td>Move Right</td>
+        <td>D</td>
+      </tr>
+      <tr>
+        <td>Shoot</td>
+        <td>J</td>
+      </tr>
+      <tr>
+        <td>Special Attack</td>
+        <td>K</td>
+      </tr>
+    </table>
+
+    <h2>📜 Rules</h2>
     <ul>
-      <li>Move in all directions with smooth controls</li>
-      <li>Shoot to eliminate virus enemies</li>
-      <li>Survive as long as possible while avoiding damage</li>
-      <li>Progressive difficulty with tougher waves</li>
+      <li><strong>Objective:</strong> Eliminate all viruses in each stage to advance.</li>
+      <li><strong>Health System:</strong> Player starts with 3 lives. Getting hit by viruses or bullets reduces 1 life.</li>
+      <li><strong>Power-ups:</strong> Collect items to restore health or gain stronger attacks.</li>
+      <li><strong>Winning:</strong> Clear all levels and defeat the final boss.</li>
+      <li><strong>Losing:</strong> Health reaches 0.</li>
     </ul>
 
-    <h2>Features & Challenges</h2>
+    <h2>🎨 Design Features</h2>
     <ul>
-      <li>Multiple virus enemy types with different behaviors</li>
-      <li>Fast-paced gameplay loop inspired by classic arcade shooters</li>
-      <li>Balancing player movement and shooting for smooth gameplay</li>
-      <li>Level design focused on wave progression and difficulty scaling</li>
+      <li>✨ <strong>Theme:</strong> Futuristic bio-lab setting</li>
+      <li>✨ <strong>Enemies:</strong> Different virus types with unique attack patterns</li>
+      <li>✨ <strong>Boss Battle:</strong> Giant virus with multiple attack phases</li>
+      <li>✨ <strong>Visuals:</strong> Bright neon viruses, glowing projectiles</li>
+      <li>✨ <strong>Audio:</strong> Shooting effects, explosion sounds, boss music</li>
     </ul>
 
-    <h2>Development Reflection</h2>
+    <h2>📸 Gallery</h2>
+    <div class="gallery">
+      <img src="your-virus-screenshot-1.png" alt="Gameplay Screenshot">
+      <img src="your-virus-screenshot-2.png" alt="Boss Battle">
+    </div>
+
+    <h2>🌟 Key Takeaway</h2>
     <p>
-      Developing Virus Exterminator helped me practice structuring core gameplay mechanics in Stencyl. 
-      The main challenge was balancing enemy spawn rates and player speed to keep the game fun without being overwhelming. 
-      Through iteration and testing, I learned how important small adjustments are for overall game feel.
+      Virus Exterminator delivers <strong>fast-paced arcade action</strong> with a modern virus-fighting twist.
+      With <strong>challenging enemies, boss fights, and satisfying shooting mechanics</strong>, it offers an
+      exciting test of skill and endurance for players who love action-packed games.
     </p>
 
-    <h2>Screenshots</h2>
-    <img src="https://i.postimg.cc/8km8w4Gx/Virus-Exterminator-Main-Title-Screen.png" alt="Virus Exterminator Screenshot">
-
-    <h2>Play</h2>
-    <a href="https://your-game-link.com" target="_blank" class="play-link">🎮 Play on itch.io (coming soon)</a>
-  </section>
+    <div style="text-align:center;">
+      <a href="https://your-game-link.com" class="button">🎮 Play on itch.io (coming soon)</a>
+    </div>
+  </div>
 
   <footer>
-    <p><a href="index.html">⬅ Back to Portfolio</a></p>
-    <p>&copy; 2025 Simon Yung. All rights reserved.</p>
+    <p>&copy; 2025 Your Name | Virus Exterminator</p>
   </footer>
-
 </body>
 </html>
