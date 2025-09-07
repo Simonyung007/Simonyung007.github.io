@@ -5,10 +5,10 @@ _Aspiring Gameplay Programmer | Game Developer_
 
 ---
 
-## About
-Hello! I am a passionate gameplay programmer currently studying Game Development.  
+## About Me
+Hello! I am a student that studying in University of Wollogong and taking Bachelor of Game Development course.
 I enjoy creating fun and engaging experiences across PC, mobile, and console.  
-This website showcases my projects, skills, and journey in game development.
+This website showcases my projects, skills, and journey in game development. Will keep updating this website if I created new game and published.
 
 ---
 
