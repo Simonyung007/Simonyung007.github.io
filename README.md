@@ -18,7 +18,7 @@ This website showcases my projects, skills, and journey in game development. Wil
 - **Engine:** Stencyl  
 - **Role:** Gameplay Programmer  
 - [🎮 Play on itch.io](https://your-game-link.com) (coming soon)  
-![Meteor Pong Screenshot](https://i.postimg.cc/764s2v5h/Meteor-Pong-Main-Title-Screen.png)
+[![Meteor Pong Screenshot](https://i.postimg.cc/764s2v5h/Meteor-Pong-Main-Title-Screen.png)](meteor-pong.html)
 
 ---
 
@@ -26,7 +26,7 @@ This website showcases my projects, skills, and journey in game development. Wil
 - **Engine:** Stencyl  
 - **Role:** Gameplay Programmer  
 - [🎮 Play on itch.io](https://your-game-link.com) (coming soon)  
-![Virus Exterminator Screenshot](https://i.postimg.cc/8km8w4Gx/Virus-Exterminator-Main-Title-Screen.png)
+[![Virus Exterminator Screenshot](https://i.postimg.cc/8km8w4Gx/Virus-Exterminator-Main-Title-Screen.png)](virus-exterminator.html)
 
 ---
 
@@ -34,7 +34,7 @@ This website showcases my projects, skills, and journey in game development. Wil
 - **Engine:** Stencyl  
 - **Role:** Gameplay Programmer  
 - [🎮 Play on itch.io](https://your-game-link.com) (coming soon)  
-![Bomb Guy Screenshot](https://i.postimg.cc/dQrQFGY9/Bomb-Guy-Main-Title-Screen.png)
+[![Bomb Guy Screenshot](https://i.postimg.cc/dQrQFGY9/Bomb-Guy-Main-Title-Screen.png)](bomb-guy.html)
 
 ---
 
