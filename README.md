@@ -1,13 +1,26 @@
-# Hi, I'm Simon Yung 👋
-Aspiring Gameplay Programmer 
 
 
-Welcome to my portfolio!  
-Here you'll find my game projects made with **Stencyl**.
-I’m passionate about creating engaging gameplay experiences and continuously learning new programming techniques.
-
+  <!-- Header -->
+  <header>
+    <h1>Simon Yung</h1>
+    <p>Aspiring Gameplay Programmer | Game Developer
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#skills">Skills</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+  
+  <!-- About -->
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hello! I am a passionate gameplay programmer currently studying Game Development. 
+       I enjoy creating fun and engaging experiences across PC, mobile, and console. 
+       This website showcases my projects, skills, and journey in game development.</p>
+  </section>
 ---
-
+ <!-- Projects -->
 ## 🎮 My Games
 Here are a few of my game projects:
 
@@ -31,7 +44,21 @@ Here are a few of my game projects:
 - [🎮 Play on itch.io](https://your-game-link.com) (coming soon)
 - [![Bomb Guy Screenshot](https://i.postimg.cc/dQrQFGY9/Bomb-Guy-Main-Title-Screen.png)](bomb-guy.html)
 
----
+ <!-- Skills -->
+  <section id="skills" class="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Stencyl</li>
+      <li>Unity (placeholder)</li>
+      <li>C# / Java (placeholder)</li>
+      <li>Unreal (placeholder)</li>
+      <li>Photoshop / Aseprite (placeholder)</li>
+      <li>Git & GitHub</li>
+    </ul>
+  </section>
+
+<!-- Contact -->
+## 📫 Contact
  <div class="social-icons">
  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/simon-yung-1061351a4/" target="_blank">
@@ -50,11 +77,12 @@ Here are a few of my game projects:
 </div>
 ---
 
-## 📫 Contact
-- **Email:** simonyung007@gmail.com  
-- **GitHub:** [Simonyung007](https://github.com/Simonyung007)  
-- **LinkedIn:** [Simon Yung](https://www.linkedin.com/in/simon-yung-1061351a4/)
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Simon Yung. All rights reserved.</p>
+  </footer>
 
----
+</body>
+</html>
 
-*Last updated: August 2025*
+*Last updated: September 2025*
