@@ -22,7 +22,7 @@ Will keep updating this website if I created new game and published.
 - **Engine:** Unity
 - **Project:** Game Project Studio 1 - Team Project
 - **Role:** Gameplay Programmer
-- [🎮 Play on itch.io](https://your-game-link.com) (coming soon)
+- [🎮 Play on itch.io](https://uowmgames.itch.io/swiss-or-miss) 
 - [📖 More Info](swiss-or-miss.html)
 
 [![Swiss or Miss Screenshot](https://i.postimg.cc/59KVgS54/Swissor-Miss-Main-Menu.png)](swiss-or-miss.html)
