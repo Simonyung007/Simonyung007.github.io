@@ -15,7 +15,21 @@ Will keep updating this website if I created new game and published.
 
 ## 🎮 Projects {#projects}
 
-### 1. [Meteor Pong](meteor-pong.md)
+### 1. [Swiss or Miss](swiss-or-miss.html)
+
+**Swiss or Miss** is a single-player roguelike game where players take the role of a graphic designer and create posters based on different client requirements. Players must balance creativity and strategy while managing their resources, stress, and deadlines.
+
+- **Engine:** Unity
+- **Project:** Game Project Studio 1 - Team Project
+- **Role:** Gameplay Programmer
+- [🎮 Play on itch.io](https://your-game-link.com) (coming soon)
+- [📖 More Info](swiss-or-miss.html)
+
+[![Swiss or Miss Screenshot](YOUR-SCREENSHOT-LINK-HERE)](swiss-or-miss.html)
+
+---
+
+### 2. [Meteor Pong](meteor-pong.html)
 - **Engine:** Stencyl  
 - **Role:** Gameplay Programmer  
 - [🎮 Play on itch.io](https://your-game-link.com) (coming soon)  
@@ -23,7 +37,7 @@ Will keep updating this website if I created new game and published.
 
 ---
 
-### 2. [Virus Exterminator](virus-exterminator.md)
+### 3. [Virus Exterminator](virus-exterminator.html)
 - **Engine:** Stencyl  
 - **Role:** Gameplay Programmer  
 - [🎮 Play on itch.io](https://your-game-link.com) (coming soon)  
@@ -31,7 +45,7 @@ Will keep updating this website if I created new game and published.
 
 ---
 
-### 3. [Bomb Guy](bomb-guy.md)
+### 4. [Bomb Guy](bomb-guy.html)
 - **Engine:** Stencyl  
 - **Role:** Gameplay Programmer  
 - [🎮 Play on itch.io](https://your-game-link.com) (coming soon)  
