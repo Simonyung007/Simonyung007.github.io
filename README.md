@@ -25,7 +25,7 @@ Will keep updating this website if I created new game and published.
 - [🎮 Play on itch.io](https://your-game-link.com) (coming soon)
 - [📖 More Info](swiss-or-miss.html)
 
-[![Swiss or Miss Screenshot](YOUR-SCREENSHOT-LINK-HERE)](swiss-or-miss.html)
+[![Swiss or Miss Screenshot](https://i.postimg.cc/59KVgS54/Swissor-Miss-Main-Menu.png)](swiss-or-miss.html)
 
 ---
 
