@@ -55,11 +55,9 @@ Will keep updating this website if I created new game and published.
 
 ## 🛠 Skills {#skills}
 - Stencyl
-- Photoshop / Aseprite  
-- _placeholder)_  
-- _(placeholder)_  
-- _(placeholder)_  
-- _(placeholder)_  
+- Photoshop
+- Aseprite  
+- Unity
 
 ---
 
