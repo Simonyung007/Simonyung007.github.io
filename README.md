@@ -14,7 +14,7 @@
 <h2 id="about">About Me</h2>
 
 <img
-  src="https://i.postimg.cc/B6WJwf7z/Simon.jpg"
+  src="Simon.jpg"
   alt="Simon Yung"
   width="160"
   align="right"
