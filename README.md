@@ -13,7 +13,17 @@
 
 <h2 id="about">About Me</h2>
 
-<img src="Simon.jpg" alt="Simon Yung" width="160" align="right" style="margin-left: 25px; margin-bottom: 15px; border-radius: 50%;">
+<img src="Simon.jpg"
+     alt="Simon Yung"
+     width="180"
+     align="right"
+     style="
+       margin-left: 25px;
+       margin-bottom: 15px;
+       border: 3px solid #333;
+       border-radius: 6px;
+       padding: 3px;
+     ">
 
 <p>
   Hello! I am a Game Development student with an interest in gameplay
