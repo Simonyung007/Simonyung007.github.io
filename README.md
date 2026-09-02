@@ -1,15 +1,40 @@
-# Simon Yung
-_Aspiring Gameplay Programmer | Game Developer_
+<h1>Simon Yung</h1>
 
-[About](#about) | [Projects](#projects) | [Skills](#skills) | [Contact](#contact)
+<p><i>Aspiring Gameplay Programmer | Game Developer</i></p>
 
----
+<p>
+  <a href="#about">About</a> |
+  <a href="#projects">Projects</a> |
+  <a href="#skills">Skills</a> |
+  <a href="#contact">Contact</a>
+</p>
 
-## About Me
-Hello! I am a student that studying in University of Wollogong and taking Bachelor of Game Development course.
-I enjoy creating fun and engaging experiences across PC, mobile, and console.  
-This website showcases my projects, skills, and journey in game development. 
-Will keep updating this website if I created new game and published.
+<hr>
+
+<h2 id="about">About Me</h2>
+
+<img
+  src="https://i.postimg.cc/B6WJwf7z/Simon.jpg"
+  alt="Simon Yung"
+  width="160"
+  align="right"
+  style="margin-left: 25px; margin-bottom: 15px; border-radius: 50%;"
+>
+
+<p>
+  Hello! I am a Game Development student with an interest in gameplay
+  programming and creating interactive game systems.
+</p>
+
+<p>
+  I enjoy developing games and learning more about gameplay programming,
+  Unity, C++, and game development. This website showcases the projects
+  I have worked on and my journey as a game developer.
+</p>
+
+<br clear="right">
+
+<hr>
 
 ---
 
